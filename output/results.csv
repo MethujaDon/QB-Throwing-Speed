@@ -1,0 +1,13 @@
+number,Date,Game,Catcher,result,distance_yd,angle,speed_mph,hang_time_s,check
+1,2026-10-11,Week 5: Lions at Cardinals,#14,Complete,29.5,10.0,61.3,1.0,OK
+2,2026-10-11,Week 5: Lions at Cardinals,#1,Touchdown,52.6,25.0,55.3,2.15,OK
+3,2026-10-11,Week 5: Lions at Cardinals,#87,Complete,30.0,20.0,45.4,1.44,OK
+4,2026-10-11,Week 5: Lions at Cardinals,#1,Touchdown,24.3,10.0,55.3,0.91,OK
+5,2026-10-04,Week 4: Lions at Panthers,#18,Complete,11.4,0.0,131.8,0.18,too fast to be real
+6,2026-10-04,Week 4: Lions at Panthers,#87,Touchdown,21.9,15.0,43.7,1.06,OK
+7,2026-10-04,Week 4: Lions at Panthers,#14,Complete,14.7,-5.0,,,impossible angle
+8,2026-10-04,Week 4: Lions at Panthers,#18,Complete,60.7,45.0,52.1,3.37,OK
+9,2026-10-04,Week 4: Lions at Panthers,#1,Complete,53.1,35.0,50.2,2.64,OK
+10,2026-09-27,Week 3: Lions vs Jets,#0,Touchdown,20.9,40.0,30.7,1.82,OK
+11,2026-09-27,Week 3: Lions vs Jets,#18,Complete,25.3,5.0,78.0,0.67,too fast to be real
+12,2026-09-27,Week 3: Lions vs Jets,#1 (confirm),Touchdown,31.7,20.0,46.7,1.48,OK
